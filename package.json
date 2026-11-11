@@ -1,0 +1,8 @@
+{
+  "name": "rogue-ai",
+  "version": "0.1.0",
+  "private": true,
+  "description": "ROGUE independent research AI - installable web app",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
